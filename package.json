@@ -1,0 +1,20 @@
+{
+  "name": "ecl-parser",
+  "version": "0.0.1",
+  "description": "JS Parser for ECL query language generated with ANTLR4",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bolza/ecl-parser"
+  },
+  "keywords": [
+    "parser",
+    "ecl",
+    "antlr4"
+  ],
+  "author": "ilbolza@gmail.com",
+  "license": "MIT"
+}
